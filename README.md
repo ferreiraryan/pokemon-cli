@@ -40,10 +40,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone este repositório 
-# git clone https://github.com/seu-usuario/pokemon-cli/
+git clone https://github.com/seu-usuario/pokemon-cli/
 
 # Acesse o diretório
-# cd pokemon-cli
+cd pokemon-cli
 
 # Instale as dependências
 npm install
