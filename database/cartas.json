@@ -1,0 +1,9 @@
+[
+  {
+    "idCarta": "1",
+    "nomePokemon": "pikachu",
+    "tipo": "raio",
+    "hp": 200,
+    "ataque": 10
+  }
+]
